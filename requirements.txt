@@ -1,0 +1,11 @@
+streamlit
+streamlit-webrtc
+torch
+torchvision
+ultralytics
+opencv-python
+opencv-python-headless
+numpy
+scikit-learn
+pandas
+matplotlib
