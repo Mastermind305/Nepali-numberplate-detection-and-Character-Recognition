@@ -3,6 +3,9 @@
 
 This project uses YOLOv8 and YOLOv11 models for detecting Nepali number plates and performing character recognition. The project includes a real-time detection Streamlit app, a testing Jupyter notebook for character inference, and an inference video to demonstrate the performance.
 
+[inference](https://github.com/Mastermind305/Nepali-numberplate-detection-and-Character-Recognition/blob/main/inferences%20of%20character%20detection/detected%20output.1png.png?raw=true)
+
+
 ## Project Structure
 
 - `app.py`: Streamlit app that performs real-time Nepali number plate detection.
